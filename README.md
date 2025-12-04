@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
   <br/>
-  ✨ <span style="color:#ff00ff;">thetriquetradeveloper</span> ✨
+  ✨ <span style="color:#ff00ff;">Faizan code</span> ✨
   <br/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </h1>
@@ -44,13 +44,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=thetriquetradeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizan-code-arch&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thetriquetradeveloper&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-code-arch&theme=radical&hide_border=false" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetriquetradeveloper&theme=radical&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-code-arch&theme=radical&hide_border=false&layout=compact" />
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thetriquetradeveloper&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan-code-arch&theme=radical" />
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=thetriquetradeveloper&theme=juicyfresh&column=6&row=1&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizan-code-arch&theme=juicyfresh&column=6&row=1&no-frame=true" />
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-  <img src="https://github-contributor-stats.vercel.app/api?username=thetriquetradeveloper&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Faizan-code-arch&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
 </div>
 
@@ -80,12 +80,12 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/thetriquetradeveloper/thetriquetradeveloper/d61edb5f135305ec692ac7dc5a05cd7b59c13464/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Faizan-code-arch/Faizan-code-arch/d61edb5f135305ec692ac7dc5a05cd7b59c13464/github-snake-dark.svg" />
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thetriquetradeveloper&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Faizan-code-arch&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
